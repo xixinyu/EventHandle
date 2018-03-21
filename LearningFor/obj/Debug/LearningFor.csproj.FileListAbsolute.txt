@@ -1,0 +1,8 @@
+C:\workspace\Test\LearningFor\LearningFor\bin\Debug\LearningFor.exe.config
+C:\workspace\Test\LearningFor\LearningFor\bin\Debug\LearningFor.exe
+C:\workspace\Test\LearningFor\LearningFor\bin\Debug\LearningFor.pdb
+C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.csprojResolveAssemblyReference.cache
+C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.Properties.Resources.resources
+C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.csproj.GenerateResource.Cache
+C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.exe
+C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.pdb
