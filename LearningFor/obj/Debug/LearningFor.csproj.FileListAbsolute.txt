@@ -6,3 +6,14 @@ C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.Properties.Resou
 C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.csproj.GenerateResource.Cache
 C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.exe
 C:\workspace\Test\LearningFor\LearningFor\obj\Debug\LearningFor.pdb
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.csprojResolveAssemblyReference.cache
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.DetailForm.resources
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.Form1.resources
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.MenuTreeForm.resources
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.Properties.Resources.resources
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.csproj.GenerateResource.Cache
+E:\workspace\EventHandle\LearningFor\bin\Debug\LearningFor.exe.config
+E:\workspace\EventHandle\LearningFor\bin\Debug\LearningFor.exe
+E:\workspace\EventHandle\LearningFor\bin\Debug\LearningFor.pdb
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.exe
+E:\workspace\EventHandle\LearningFor\obj\Debug\LearningFor.pdb
